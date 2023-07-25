@@ -1,0 +1,105 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+
+background-image: url('images/457441-minimalism-gradient-blurred-simple-simple-background.jpg');
+background-repeat: no-repeat;
+width: 1800px;
+height: 1080px;
+
+
+
+    
+    
+}a{
+    text-decoration: none;
+    color:black;
+}.contain{
+    height: 150px;
+    padding-top: 170px;
+    font-size: 50px;
+    text-align: center;
+   font-style: normal;
+    
+}.hi{
+    color: rgb(0, 0, 0);
+    margin-top:  0px;
+    margin-bottom: 0px;
+    
+}.home-dash{
+    padding-right: 25px;
+}.about-dash{
+    padding-right: 25px;
+}.resume-dash{
+    padding-right: 25px;
+}.services-dash{
+    padding-right: 25px;
+}.projects-dash{
+    padding-right: 25px;
+}.contact-dash{
+    padding-right: 25px;
+}.biboy{
+    height: 500px;
+    width: 700px;
+    float: left;
+    padding-left: 50px;
+}.home1{
+    background-color: beige;
+}.hihi{
+    color: rgb(28, 33, 105);
+}.por{
+    color: rgb(28, 33, 105);
+    margin-top: 1px;
+    margin-bottom: 1px;
+}.abo{
+    padding-top: 150px;
+    font-size: 30px;
+}.this{
+    padding-bottom: 320px;
+}.imahe{
+    padding-top: 120px;
+    width: 100px;
+    height: 100px;
+    
+
+}.row{
+    padding-left: 160px;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8 5vw);
+    grid-gap: 15px;
+    
+}.b11{
+    width: 500px;
+    height: 350px;
+}.abo{
+
+    
+    width: 1890px;
+    height: 750px;
+    background-color: rgb(164, 177, 106);
+}.ab{
+    padding-top: 65px;
+}.me{
+    font-size: 50px;
+}.bboy{
+    width: 1890px;
+    height: 250px;
+    background-color: rgba(250, 235, 215, 0.795);
+    padding-top: 1px;
+   
+}.ul1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+    font-size: 1.1vw;
+}li a{
+    
+    display: block;
+    width: 60px;
+}
